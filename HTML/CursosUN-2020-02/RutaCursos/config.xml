@@ -10,13 +10,13 @@
     <description/>
     <extra-head><![CDATA[<meta name="viewport" content="width=device-width, initial-scale=1" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171487198-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171061524-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-171487198-1');
+  gtag('config', 'UA-171061524-1');
 </script>]]></extra-head>
     <extra-body><![CDATA[<script type="text/javascript" src="_style_js.js"></script>]]></extra-body>
     <edition-extra-head><![CDATA[<script type="text/javascript">if (typeof(exe_style)!='undefined' && exe_style.indexOf("content.css")!=-1) document.write('<scr'+'ipt type="text/javascript" src="'+exe_style.replace("content.css","_style_js.js")+'"></scr'+'ipt>')</script>]]></edition-extra-head>
